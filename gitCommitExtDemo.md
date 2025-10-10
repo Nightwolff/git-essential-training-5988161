@@ -1,1 +1,1 @@
-Adding some text here to work with the extended commit message.
+Adding some text here to work with the extended commit message. This change will conflict with prior changes to the remote repo.
